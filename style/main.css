@@ -25,3 +25,159 @@ nav{
    background-color: blueviolet;
    text-align: center; 
   }
+  /*pagina 1*/
+  .index{
+    width: 600px;
+    height:fit-content;
+    padding-top: 1px;
+    margin: 20px auto;
+  }/*bordes*/
+  .index>nav{
+    width: 580px;
+    height: 255px;
+    margin: 15px 10px;
+    border: solid;
+    padding-top: 1px;
+    padding-left: 5px;
+    border-color: black;
+    background-color: transparent;
+  }
+  .index>nav>article{
+    width: 275px;
+    height: 240px;
+    margin: 4px 5px 5px 0px;    
+    border: solid;
+    border-color: black;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+  }/*bandera canada*/
+  .index>nav>article>.canada>nav{
+    width: 70px;
+    height: 210px;
+    margin: 1px 1px;
+    background-color: red;
+    display: inline-block;
+  }
+  .index>nav>article>.canada>section{
+    width: 110px;
+    height: 210px;
+    margin: 3px 4px;
+    background-color: white;
+    display: inline-block;
+  }
+  .index>nav>article>.canada>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
+  /*bandera argentina*/
+  .index>nav>article>.argentina>aside{
+    width: 268px;
+    height: 70px;
+    margin: 3px 2px 1px 3px;
+    background-color:lightblue;
+  }
+  .index>nav>article>.argentina>section{
+    width: 268px;
+    height: 70px;
+    margin: 0px;
+    background-color:white;
+  }
+  .index>nav>article>.argentina>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
+  /*bandera corea norte*/
+  .index>nav>article>.coreanorte>nav{
+    width: 268px;
+    height: 35px;
+    margin: 3px 2px 1px 3px;
+    background-color:blue;
+  }
+  .index>nav>article>.coreanorte>div{
+    width: 268px;
+    height: 130px;
+    margin: 3px 2px 1px 3px;
+    background-color:red;
+    padding: 1px; 
+  }
+  .index>nav>article>.coreanorte>div>footer{
+    width: 100px;
+    height: 100px;
+    margin: 15px 5px 16px 45px;
+    background-color:white;
+    border-radius: 50%;
+  }
+  .index>nav>article>.coreanorte>section{
+    width: 268px;
+    height: 2px;
+    margin: 3px 2px 1px 3px;
+    background-color:white;
+  }
+  .index>nav>article>.coreanorte>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
+  /*bandera Colombia*/
+  .index>nav>article>.colombia>footer{
+    width: 268px;
+    height: 94px;
+    margin: 3px 1px 1px 3px;
+    background-color:yellow;
+  }
+  .index>nav>article>.colombia>nav{
+    width: 268px;
+    height: 60px;
+    margin: 1px 1px 1px 3px;
+    background-color:blue;
+  }
+  .index>nav>article>.colombia>section{
+    width: 268px;
+    height: 60px;
+    margin: 1px 1px 4px  3px;
+    background-color:red;
+  }
+  .index>nav>article>.colombia>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
+  /*bandera egipto*/
+  .index>nav>article>.egipto>article{
+    width: 268px;
+    height: 70px;
+    margin: 3px 2px 1px 3px;
+    background-color:red;
+  }
+  .index>nav>article>.egipto>nav{
+    width: 268px;
+    height: 70px;
+    margin: 3px 2px 1px 3px;
+    background-color:white;
+  }
+  .index>nav>article>.egipto>div{
+    width: 268px;
+    height: 70px;
+    margin: 3px 2px 1px 3px;
+    background-color:black;
+  }
+  .index>nav>article>.egipto>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
+  /*bandera españa*/
+  .index>nav>article>.españa>section{
+    width: 268px;
+    height: 54px;
+    margin: 1px 1px 1px  3px;
+    background-color:red;
+  }
+  .index>nav>article>.españa>footer{
+    width: 268px;
+    height: 108px;
+    margin: 1px 1px 1px  3px;
+    background-color:yellow;
+  }
+  .index>nav>article>.españa>h1{
+    background-color: transparent;
+    text-align: center;
+    font-size: 17px;}
