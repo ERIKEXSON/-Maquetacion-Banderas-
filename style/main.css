@@ -65,11 +65,18 @@ nav{
     margin: 3px 4px;
     background-color: white;
     display: inline-block;
+    
   }
+  .index>nav>article>.canada>section>img{
+    width: 125px;
+    height: 130px;
+    margin: 50px 118px 33px -6px;
+     }
   .index>nav>article>.canada>h1{
     background-color: transparent;
     text-align: center;
-    font-size: 17px;}
+    font-size: 17px;
+  }
   /*bandera argentina*/
   .index>nav>article>.argentina>aside{
     width: 268px;
@@ -82,6 +89,10 @@ nav{
     height: 70px;
     margin: 0px;
     background-color:white;
+  }
+  .index>nav>article>.argentina>section>img{
+    width: 72px;
+    height: 72px;
   }
   .index>nav>article>.argentina>h1{
     background-color: transparent;
@@ -107,6 +118,10 @@ nav{
     margin: 15px 5px 16px 45px;
     background-color:white;
     border-radius: 50%;
+  }
+  .index>nav>article>.coreanorte>div>footer>img{
+    width: 90px;
+    height: 90px;
   }
   .index>nav>article>.coreanorte>section{
     width: 268px;
@@ -154,6 +169,10 @@ nav{
     margin: 3px 2px 1px 3px;
     background-color:white;
   }
+  .index>nav>article>.egipto>nav>img{
+    width: 72px;
+    height: 72px;
+  }
   .index>nav>article>.egipto>div{
     width: 268px;
     height: 70px;
@@ -176,6 +195,10 @@ nav{
     height: 108px;
     margin: 1px 1px 1px  3px;
     background-color:yellow;
+  }
+  .index>nav>article>.españa>footer>img{
+    width: 108px;
+    height: 108px;
   }
   .index>nav>article>.españa>h1{
     background-color: transparent;
