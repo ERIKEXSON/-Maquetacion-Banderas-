@@ -25,3 +25,200 @@ h1{
     background-color: blueviolet;
     text-align: center;
 }
+.page2{
+    margin: 20px auto;
+    height: fit-content;
+    width: 600px;
+    padding-top: 1px;
+}
+.page2>nav{
+    width: 580px;
+    height: 255px;
+    margin: 15px 10px;
+    padding-left: 5px;
+    padding-top: 1px;
+    background-color: transparent;
+    border: solid;
+    border-color: black;
+}
+.page2>nav>article{
+    width: 275px;
+    height: 240px;
+    margin: 4px 5px 5px 0;
+    border: solid;
+    border-color: black;
+    background-color: transparent;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.page2>nav>article>.finlandia{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+}
+.page2>nav>article>.finlandia>aside{
+    width: 255px;
+    height: 75px;
+    background-color: white;
+}
+.page2>nav>article>.finlandia>aside>div{
+    width: 50px;
+    height: 75px;
+    background-color: blue;
+    margin: 0 150px 0 55px;
+}
+.page2>nav>article>.finlandia>article{
+    width: 255px;
+    height: 50px;
+    background-color: blue;
+}
+.page2>nav>article>.panama{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+}
+.page2>nav>article>.panama>div{
+    width: 255px;
+    height: 100px;
+}
+.page2>nav>article>.panama>div>footer{
+    width: 127.5px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.page2>nav>article>.panama>div>footer>img{
+    width: 60px;
+    height: 60px;
+    margin: 20px 33.75px;
+}
+.page2>nav>article>.panama>div>article{
+    width: 127.5px;
+    height: 100px;
+    background-color: red;
+    margin: 0 0 0 -4px;
+    display: inline-block;
+}
+.page2>nav>article>.panama>div>nav{
+    width: 127.5px;
+    height: 100px;
+    margin: 0 0 0 -4px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.page2>nav>article>.panama>div>nav>img{
+    width: 60px;
+    height: 60px;
+    margin: 20px 33.75px;
+}
+.page2>nav>article>.panama>div>aside{
+    width: 127.5px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+.page2>nav>article>.rusia{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+}
+.page2>nav>article>.rusia>article{
+    width: 255px;
+    height: 66.66px;
+    background-color: white;
+}
+.page2>nav>article>.rusia>aside{
+    width: 255px;
+    height: 66.66px;
+    background-color: blue;
+}
+.page2>nav>article>.rusia>nav{
+    width: 255px;
+    height: 66.66px;
+    background-color: red;
+}
+.page2>nav>article>.japon{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+    background-color: white;
+    padding-top: 1px;
+}
+.page2>nav>article>.japon>nav{
+    width: 80px;
+    height: 80px;
+    margin: 49px auto;
+    border-radius: 50%;
+    background-color: red;
+}
+.page2>nav>article>.mexico{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+}
+.page2>nav>article>.mexico>aside{
+    width: 85px;
+    height: 200px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+.page2>nav>article>.mexico>footer{
+    width: 85px;
+    height: 200px;
+    margin: 0 0 0 -4px;
+    background-color: white;
+    display: inline-block;
+}
+.page2>nav>article>.mexico>footer>img{
+    width: 65px;
+    height: 65px;
+    margin: 67.5px auto;
+}
+.page2>nav>article>.mexico>article{
+    width: 85px;
+    height: 200px;
+    margin: 0 0 0 -4px;
+    background-color: red;
+    display: inline-block;
+}
+.page2>nav>article>.costarica{
+    width: 255px;
+    height: 200px;
+    margin: 20px auto auto auto;
+}
+.page2>nav>article>.costarica>section{
+    width: 255px;
+    height: 35px;
+    background-color: blue;
+}
+.page2>nav>article>.costarica>div{
+    width: 255px;
+    height: 35px;
+    background-color: white;
+}
+.page2>nav>article>.costarica>article{
+    width: 255px;
+    height: 60px;
+    background-color: red;
+    padding-top: 1px;
+}
+.page2>nav>article>.costarica>article>div{
+    width: 40px;
+    height: 50px;
+    margin: 4px 155px 5px 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page2>nav>article>.costarica>article>div>img{
+    width: 35px;
+    height: 44px;
+    margin: 3px auto;
+}
+.page2>nav>article>h1{
+    text-align: center;
+    font-size: 17px;
+    background-color: transparent;
+}
