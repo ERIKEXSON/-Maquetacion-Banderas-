@@ -25,6 +25,9 @@ nav{
    background-color: blueviolet;
    text-align: center; 
   }
+  body{
+    background-color: thistle;
+  }
   /*pagina 1*/
   .index{
     width: 600px;

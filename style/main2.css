@@ -25,6 +25,9 @@ h1{
     background-color: blueviolet;
     text-align: center;
 }
+body{
+    background-color: thistle;
+}
 .page2{
     margin: 20px auto;
     height: fit-content;
